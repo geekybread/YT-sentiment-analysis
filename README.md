@@ -1,4 +1,4 @@
-# YT-sentiment-analysis
+# YT-sentiment-analysis project
 
 ## Description
 - Built a scraper using selenium webdriver to get the comments of the specified youtube video.
